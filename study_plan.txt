@@ -1,0 +1,13 @@
+MY AI STUDY PLAN
+Student: Zohaib Malik
+Learning goal: Full Stack Developer
+Study days: 4
+Hours per day: 2
+Weekly total: 8 hours
+
+SUGGESTED ACTIVITIES
+1. Learn Python concepts
+2. Practice short programs
+3. Explore a Generative AI tool
+4. Build one small Python project
+5. Review and update GitHub
